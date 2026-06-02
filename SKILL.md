@@ -133,6 +133,8 @@ These rules apply when writing or editing paper content (not just formatting):
 | **Section intro sentence** | Every (sub)section must open with a transitional sentence before the first table/figure; never place a table caption or figure immediately after a heading |
 | **Minimize parentheses** | Avoid excessive parentheses in body text; integrate info into the sentence flow instead of (parenthetical asides) |
 | **Reduce relative improvements** | In highlights and abstract, avoid "by X percentage points", "within X pp of", "X pp improvement" phrasing; state absolute accuracy values instead |
+| **Avoid possessive 's** | Do not use apostrophe-s ('s) for possession. Rewrite using "of" or other phrasing: "the model's accuracy" → "the accuracy of the model", "Hong Kong's climate" → "the climate of Hong Kong", "FedAvg's performance" → "the performance of FedAvg". Contractions (it's, don't) are already banned in academic writing |
+| **Prefer "this study"** | Use "this study" as the default subject when referring to the current work. Avoid "this paper", "this work", "we", "our approach", etc. Examples: "This study proposes…", "The results of this study indicate…", "This study adopts federated learning to…" |
 | **Clean writing style** | Review body text for unnecessary symbols: dashes (auto-removed), tildes (auto-removed), orphan `±` (auto-removed), `≈`/`<`/`>` (rewrite as words), excessive parentheses (rewrite as clauses), redundant content. The goal is fluent academic prose, not shorthand notation |
 
 ---
